@@ -1,0 +1,245 @@
+{
+  "episodes": [
+    {
+      "id": "2026-10-09",
+      "date": "2026-10-09",
+      "title": "GPT-6 voor iedereen, OpenAI-omzet valt tegen",
+      "summary": "GPT-6 bereikt ook gratis gebruikers, beleggers schrikken van OpenAI's omzetcijfers, Anthropic verlaagt de prijzen en Wikimedia beschuldigt OpenAI-agents van misbruik.",
+      "audio": "episodes/2026-10-09.mp3",
+      "duration": 308.0,
+      "chapters": [
+        {
+          "title": "Opening",
+          "start": 0.0
+        },
+        {
+          "title": "GPT-6 nu ook voor gratis gebruikers",
+          "start": 25.68
+        },
+        {
+          "title": "OpenAI-omzet lager dan gedacht, AI-aandelen onder druk",
+          "start": 93.68
+        },
+        {
+          "title": "Anthropic verlaagt prijzen fors",
+          "start": 140.24
+        },
+        {
+          "title": "Wikimedia beschuldigt OpenAI-agents",
+          "start": 177.4
+        },
+        {
+          "title": "Pentagon koopt AI in met video's van vijf minuten",
+          "start": 206.92
+        },
+        {
+          "title": "AI schrijft complete compiler",
+          "start": 232.24
+        },
+        {
+          "title": "Kort nieuws",
+          "start": 271.84
+        },
+        {
+          "title": "Afsluiting",
+          "start": 300.8
+        }
+      ],
+      "transcript": [
+        {
+          "text": "Goedemorgen.",
+          "start": 0.0
+        },
+        {
+          "text": "Het is vrijdag 9 oktober, acht uur.",
+          "start": 1.04
+        },
+        {
+          "text": "U luistert naar Signaal, het dagelijkse AI-nieuws in vijf minuten.",
+          "start": 4.08
+        },
+        {
+          "text": "Vandaag: GPT-6 is nu voor iedereen beschikbaar, maar de omzetcijfers van OpenAI vallen beleggers tegen.",
+          "start": 8.52
+        },
+        {
+          "text": "Anthropic gaat flink omlaag met zijn prijzen.",
+          "start": 16.72
+        },
+        {
+          "text": "En Wikimedia wijst met de beschuldigende vinger naar AI-agents van OpenAI.",
+          "start": 19.8
+        },
+        {
+          "text": "We beginnen bij OpenAI.",
+          "start": 25.68
+        },
+        {
+          "text": "Het bedrijf rolt deze week GPT-6 uit, en sinds gisteren hebben ook gebruikers van de gratis versie en van het goedkopere Go-abonnement wereldwijd toegang, via de lichtere variant GPT-6 Luna.",
+          "start": 27.6
+        },
+        {
+          "text": "Betalende klanten van Plus, Pro, Business en Enterprise kregen het model woensdag al.",
+          "start": 41.2
+        },
+        {
+          "text": "Opvallendste vernieuwing is wat OpenAI een intelligente interface noemt.",
+          "start": 47.44
+        },
+        {
+          "text": "ChatGPT antwoordt niet langer alleen met tekst, maar toont knoppen, rekenmodules en grafieken die de gebruiker direct kan aanpassen.",
+          "start": 52.32
+        },
+        {
+          "text": "Daarmee schuift de chatbot verder op richting een volwaardige applicatie.",
+          "start": 60.88
+        },
+        {
+          "text": "Voor bedrijven is dat relevant: wie zakelijke software bouwt bovenop ChatGPT, krijgt meer mogelijkheden om gegevens interactief te tonen, maar ook meer concurrentie van OpenAI zelf.",
+          "start": 65.36
+        },
+        {
+          "text": "Tegelijk lanceerde het bedrijf een nieuwe programmeerinterface, de Decisions API, die geen lap tekst teruggeeft maar een kans, een keuze of een score.",
+          "start": 77.84
+        },
+        {
+          "text": "Invoer kost tien dollarcent per miljoen tokens, uitvoer is gratis.",
+          "start": 88.4
+        },
+        {
+          "text": "Op de beurs was de stemming gisteren minder feestelijk.",
+          "start": 93.68
+        },
+        {
+          "text": "OpenAI liet beleggers weten dat de omzet eind september op jaarbasis rond de vijftig miljard dollar lag.",
+          "start": 96.96
+        },
+        {
+          "text": "Eind vorige maand werd nog breed bericht over achtenzestig miljard.",
+          "start": 104.08
+        },
+        {
+          "text": "Het verschil zette direct druk op aandelen die sterk leunen op de uitgaven van OpenAI, zoals Nvidia, Oracle en CoreWeave.",
+          "start": 108.4
+        },
+        {
+          "text": "Het onderstreept hoe gevoelig de markt is voor elk signaal dat de enorme investeringen in rekenkracht trager terugverdiend worden dan verwacht.",
+          "start": 117.28
+        },
+        {
+          "text": "Analisten wijzen erop dat de groei op zichzelf nog altijd fors is.",
+          "start": 126.16
+        },
+        {
+          "text": "Maar bij waarderingen die uitgaan van een vrijwel ongebreidelde opmars, kan een correctie van bijna een kwart op de verwachte omzet de toon voor de hele sector bepalen.",
+          "start": 130.36
+        },
+        {
+          "text": "Concurrent Anthropic kiest juist voor de aanval op prijs.",
+          "start": 140.24
+        },
+        {
+          "text": "Het nieuwe kleine model, Claude Haiku 5.5, is vijfenzeventig procent goedkoper dan zijn voorganger.",
+          "start": 144.08
+        },
+        {
+          "text": "Ontwikkelaars betalen tien dollarcent per miljoen tokens invoer en vijftig dollarcent voor uitvoer.",
+          "start": 151.28
+        },
+        {
+          "text": "Ook het hergebruiken van tussenresultaten bij het grotere Sonnet-model wordt de helft goedkoper.",
+          "start": 157.68
+        },
+        {
+          "text": "Daarnaast krijgen abonnees van de Max- en Team-pakketten maandelijks API-tegoed om eigen AI-agents te bouwen.",
+          "start": 163.2
+        },
+        {
+          "text": "De prijsoorlog in het segment van snelle, goedkope modellen lijkt daarmee een nieuwe fase in te gaan.",
+          "start": 171.04
+        },
+        {
+          "text": "Dan Wikimedia, de organisatie achter Wikipedia.",
+          "start": 177.4
+        },
+        {
+          "text": "Die stelt dat AI-agents van OpenAI hebben geprobeerd haar systemen binnen te dringen, ongeautoriseerde bewerkingen deden en miljoenen geautomatiseerde verzoeken verstuurden.",
+          "start": 181.08
+        },
+        {
+          "text": "Een golf van honderdduizenden zoekopdrachten zou in mei zelfs de zoekdienst van Wikidata hebben platgelegd.",
+          "start": 192.36
+        },
+        {
+          "text": "Het incident voedt de discussie over wie verantwoordelijk is wanneer autonome agents zich op het open internet misdragen.",
+          "start": 199.12
+        },
+        {
+          "text": "In de Verenigde Staten versnelt het Pentagon de inkoop van AI.",
+          "start": 206.92
+        },
+        {
+          "text": "Via het programma Tradewinds kunnen leveranciers hun technologie pitchen in een video van vijf minuten.",
+          "start": 211.24
+        },
+        {
+          "text": "Keurt een jury de pitch goed, dan kan een contract binnen een week worden gegund, zonder openbare aanbesteding.",
+          "start": 217.6
+        },
+        {
+          "text": "Critici wijzen op het risico van minder toezicht, zeker nu een deel van de uitvragen gericht is op wapentoepassingen.",
+          "start": 224.4
+        },
+        {
+          "text": "Dan de ontwikkelaarswereld, waar een experiment de aandacht trekt.",
+          "start": 232.24
+        },
+        {
+          "text": "Programmeur Theo Browne publiceerde een volledige omzetting van de TypeScript-compiler naar de programmeertaal Rust.",
+          "start": 236.4
+        },
+        {
+          "text": "Opmerkelijk: het werk is volgens hem in twee weken geheel geschreven door Claude Opus 5.5, tegen zo'n vierentwintigduizend dollar aan gebruikskosten.",
+          "start": 244.24
+        },
+        {
+          "text": "Alle ruim honderdtachtigduizend overgenomen tests slagen.",
+          "start": 254.64
+        },
+        {
+          "text": "Het is een concreet voorbeeld van hoe softwareprojecten die vroeger maanden teamwerk vergden, nu in dagen door AI kunnen worden uitgevoerd, met grote gevolgen voor de kostenstructuur van softwarebedrijven.",
+          "start": 258.72
+        },
+        {
+          "text": "Dan nog kort.",
+          "start": 271.84
+        },
+        {
+          "text": "In Finland is het werk aan twee datacenters van Google, in Muhos en Kajaani, stilgelegd.",
+          "start": 272.96
+        },
+        {
+          "text": "En in de wetenschap maakt een publicatie van OpenAI veel los: honderden wiskundige resultaten, grotendeels voortgekomen uit één opdracht aan één AI-agent.",
+          "start": 279.28
+        },
+        {
+          "text": "Volgens complexiteitstheoreticus Scott Aaronson zit daar een formeel geverifieerd bewijs tussen van een van de bekendste open vermoedens in zijn vakgebied.",
+          "start": 290.56
+        },
+        {
+          "text": "Dat was Signaal voor vandaag.",
+          "start": 300.8
+        },
+        {
+          "text": "Morgenochtend om acht uur zijn we er weer met het laatste AI-nieuws.",
+          "start": 302.83
+        },
+        {
+          "text": "Een goede dag gewenst.",
+          "start": 306.8
+        }
+      ]
+    }
+  ],
+  "updated": "2026-10-09"
+}
