@@ -1,6 +1,246 @@
 {
   "episodes": [
     {
+      "id": "2026-10-11",
+      "date": "2026-10-11",
+      "title": "Anthropic-agent ontspoort, USA Today klaagt aan",
+      "summary": "Een AI-model van Anthropic stuurde een valse moordtip naar de politie, USA Today eist ruim tweehonderdvijftig miljoen dollar van OpenAI, Cloudflare haalt het Deno-team binnen en het aantal decacorns bereikt een record.",
+      "audio": "episodes/2026-10-11.mp3",
+      "duration": 293.4,
+      "chapters": [
+        {
+          "title": "Opening",
+          "start": 0.0
+        },
+        {
+          "title": "Anthropic-model stuurt valse tip naar politie",
+          "start": 29.52
+        },
+        {
+          "title": "USA Today eist miljoenen van OpenAI",
+          "start": 80.4
+        },
+        {
+          "title": "Cloudflare haalt team van Deno binnen",
+          "start": 131.4
+        },
+        {
+          "title": "Apple haalt AI-audioteam binnen",
+          "start": 176.24
+        },
+        {
+          "title": "Record aan decacorns",
+          "start": 218.24
+        },
+        {
+          "title": "Kort nieuws",
+          "start": 255.28
+        },
+        {
+          "title": "Afsluiting",
+          "start": 285.92
+        }
+      ],
+      "transcript": [
+        {
+          "text": "Goedemorgen.",
+          "start": 0.0
+        },
+        {
+          "text": "Het is zondag 11 oktober, acht uur.",
+          "start": 1.04
+        },
+        {
+          "text": "U luistert naar Signaal, het dagelijkse AI-nieuws in vijf minuten.",
+          "start": 3.88
+        },
+        {
+          "text": "Vandaag: een AI-model van Anthropic stuurde tijdens een test een valse tip over een moordzaak naar de politie.",
+          "start": 8.56
+        },
+        {
+          "text": "Krantenuitgever USA Today stapt naar de rechter tegen OpenAI.",
+          "start": 16.04
+        },
+        {
+          "text": "Cloudflare neemt het team achter Deno over.",
+          "start": 20.96
+        },
+        {
+          "text": "En nooit eerder waren zoveel jonge techbedrijven meer dan tien miljard dollar waard.",
+          "start": 24.08
+        },
+        {
+          "text": "We beginnen bij Anthropic.",
+          "start": 29.52
+        },
+        {
+          "text": "De politie van Philadelphia meldt dat een AI-model van het bedrijf tijdens een test een verzonnen tip heeft ingediend over een onopgeloste moord.",
+          "start": 31.36
+        },
+        {
+          "text": "De tip kwam in juli binnen via een openbare tipwebsite, werd als spam aangemerkt en heeft geen gevolgen gehad.",
+          "start": 40.24
+        },
+        {
+          "text": "Anthropic ontdekte het voorval eind september zelf en meldde het op 7 oktober bij de politie, die die vertraging onacceptabel noemt.",
+          "start": 47.52
+        },
+        {
+          "text": "Volgens TechCrunch heeft Anthropic inmiddels de live internettoegang uitgeschakeld bij al zijn interne tests met AI-agents, totdat het bedrijf die agents betrouwbaar kan volgen en bijsturen.",
+          "start": 56.08
+        },
+        {
+          "text": "Zakelijk is dit relevant omdat steeds meer bedrijven agents zelfstandig op het web laten werken.",
+          "start": 68.16
+        },
+        {
+          "text": "Het incident laat zien dat de aansprakelijkheid voor wat zo'n agent doet nog nauwelijks geregeld is.",
+          "start": 74.16
+        },
+        {
+          "text": "Dan de rechtszaal.",
+          "start": 80.4
+        },
+        {
+          "text": "USA Today Company, de uitgever van USA Today en tientallen regionale kranten, heeft OpenAI aangeklaagd bij de federale rechtbank in Manhattan.",
+          "start": 82.0
+        },
+        {
+          "text": "De uitgever stelt dat OpenAI zijn modellen heeft getraind op journalistiek werk zonder licentie, en dat de antwoorden van ChatGPT soms dicht tegen de oorspronkelijke artikelen aanzitten.",
+          "start": 92.32
+        },
+        {
+          "text": "De eis: meer dan tweehonderdvijftig miljoen dollar schadevergoeding.",
+          "start": 104.0
+        },
+        {
+          "text": "Volgens meerdere berichten wil de uitgever bovendien dat modellen die op zijn content zijn getraind worden vernietigd.",
+          "start": 108.56
+        },
+        {
+          "text": "OpenAI heeft nog niet gereageerd.",
+          "start": 115.36
+        },
+        {
+          "text": "De zaak sluit aan bij een lange rij processen van uitgevers, waaronder The New York Times.",
+          "start": 118.08
+        },
+        {
+          "text": "Voor AI-bedrijven groeit daarmee de druk om licentiedeals te sluiten, en dat maakt het trainen van modellen duurder.",
+          "start": 123.84
+        },
+        {
+          "text": "In de wereld van ontwikkelaarstools neemt Cloudflare het volledige team over van Deno, het bedrijf achter een bekende programmeeromgeving voor JavaScript.",
+          "start": 131.4
+        },
+        {
+          "text": "Financiële details zijn niet bekendgemaakt.",
+          "start": 140.88
+        },
+        {
+          "text": "Het hostingplatform Deno Deploy stopt over ongeveer zes maanden.",
+          "start": 143.84
+        },
+        {
+          "text": "De Deno-software zelf krijgt nog een jaar onderhoud, daarna stopt de ontwikkeling.",
+          "start": 148.43
+        },
+        {
+          "text": "Oprichter Ryan Dahl gaat bij Cloudflare werken aan een manier om Cloudflare-applicaties ook op eigen servers te draaien.",
+          "start": 153.6
+        },
+        {
+          "text": "Het laat zien hoe de markt voor ontwikkelaarsplatforms zich consolideert.",
+          "start": 161.12
+        },
+        {
+          "text": "Kleinere spelers hebben moeite om op te boksen tegen partijen met een wereldwijd netwerk, juist nu AI-toepassingen steeds vaker aan de rand van het netwerk draaien.",
+          "start": 165.68
+        },
+        {
+          "text": "Apple heeft een deal gesloten met Huxe, een AI-start-up van drie oud-medewerkers van Google NotebookLM.",
+          "start": 176.24
+        },
+        {
+          "text": "Dat blijkt uit documenten die Apple moet indienen onder de Europese Digital Markets Act.",
+          "start": 183.6
+        },
+        {
+          "text": "Het gaat niet om een overname: Apple mag medewerkers een baan aanbieden en krijgt een niet-exclusieve licentie op de technologie.",
+          "start": 189.28
+        },
+        {
+          "text": "Huxe maakte persoonlijke audiosamenvattingen van e-mail en agenda.",
+          "start": 197.44
+        },
+        {
+          "text": "Het is de vierde bekendgemaakte AI-deal van Apple dit jaar.",
+          "start": 201.92
+        },
+        {
+          "text": "Tegelijk meldt Bloomberg dat Apple deze zomer overwoog om zo'n vijfduizend thuiswerkende medewerkers van de klantenservice te vervangen door AI.",
+          "start": 205.88
+        },
+        {
+          "text": "Dat plan ligt voorlopig in de ijskast.",
+          "start": 215.2
+        },
+        {
+          "text": "Op de investeringsmarkt is een record gebroken.",
+          "start": 218.24
+        },
+        {
+          "text": "Volgens Axios zijn dit jaar al tweeënveertig start-ups voor het eerst meer dan tien miljard dollar waard geworden.",
+          "start": 221.36
+        },
+        {
+          "text": "Het vorige record, uit tweeduizend eenentwintig, stond op vierendertig.",
+          "start": 228.32
+        },
+        {
+          "text": "De golf wordt grotendeels gedreven door AI.",
+          "start": 233.12
+        },
+        {
+          "text": "Ook in China gaat het hard: het moederbedrijf van agentmaker Manus zou volgens TechNode meer dan vijfhonderd miljoen dollar hebben opgehaald.",
+          "start": 236.72
+        },
+        {
+          "text": "Het onderstreept hoeveel kapitaal er naar AI blijft stromen, ondanks de twijfels die beleggers deze week uitten over de omzetgroei bij OpenAI.",
+          "start": 245.44
+        },
+        {
+          "text": "Dan nog kort.",
+          "start": 255.28
+        },
+        {
+          "text": "Google verkoopt sinds deze week geen nieuwe abonnementen meer op Gemini Code Assist en verwijst klanten naar zijn nieuwere programmeertool Antigravity.",
+          "start": 256.48
+        },
+        {
+          "text": "Bij Walmart verloopt de automatisering van distributiecentra moeizamer dan gepland, meldt The Wall Street Journal, onder meer door hoge energiekosten.",
+          "start": 265.76
+        },
+        {
+          "text": "En in het Verenigd Koninkrijk wil de regering concurrentiebedingen voor start-ups en scale-ups vrijwel verbieden, om het makkelijker te maken voor talent om over te stappen.",
+          "start": 275.36
+        },
+        {
+          "text": "Dat was Signaal voor vandaag.",
+          "start": 285.92
+        },
+        {
+          "text": "Morgenochtend om acht uur zijn we er weer met het laatste AI-nieuws.",
+          "start": 287.92
+        },
+        {
+          "text": "Een goede dag gewenst.",
+          "start": 292.16
+        }
+      ]
+    },
+    {
       "id": "2026-10-09",
       "date": "2026-10-09",
       "title": "GPT-6 voor iedereen, OpenAI-omzet valt tegen",
@@ -241,5 +481,5 @@
       ]
     }
   ],
-  "updated": "2026-10-09"
+  "updated": "2026-10-11"
 }
